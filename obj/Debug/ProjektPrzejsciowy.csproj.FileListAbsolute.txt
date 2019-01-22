@@ -1,0 +1,10 @@
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\bin\Debug\AE1.exe.config
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\bin\Debug\AE1.exe
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\bin\Debug\AE1.pdb
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\obj\Debug\ProjektPrzejsciowy.csprojAssemblyReference.cache
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\obj\Debug\AE1.Form1.resources
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\obj\Debug\AE1.Properties.Resources.resources
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\obj\Debug\ProjektPrzejsciowy.csproj.GenerateResource.cache
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\obj\Debug\ProjektPrzejsciowy.csproj.CoreCompileInputs.cache
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\obj\Debug\AE1.exe
+C:\Users\kamgu\source\repos\Projekt przejsciowy\AE1\obj\Debug\AE1.pdb

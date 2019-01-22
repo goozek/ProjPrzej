@@ -1,0 +1,29 @@
+C:\Users\kamgu_000\Documents\Visual Studio 2017\Projects\AE1\AE1\bin\Debug\AE1.exe.config
+C:\Users\kamgu_000\documents\visual studio 2017\Projects\AE1\AE1\bin\Debug\AE1.exe
+C:\Users\kamgu_000\documents\visual studio 2017\Projects\AE1\AE1\bin\Debug\AE1.pdb
+C:\Users\kamgu_000\documents\visual studio 2017\Projects\AE1\AE1\obj\Debug\AE1.csprojResolveAssemblyReference.cache
+C:\Users\kamgu_000\documents\visual studio 2017\Projects\AE1\AE1\obj\Debug\AE1.Form1.resources
+C:\Users\kamgu_000\documents\visual studio 2017\Projects\AE1\AE1\obj\Debug\AE1.Properties.Resources.resources
+C:\Users\kamgu_000\documents\visual studio 2017\Projects\AE1\AE1\obj\Debug\AE1.csproj.GenerateResource.Cache
+C:\Users\kamgu_000\documents\visual studio 2017\Projects\AE1\AE1\obj\Debug\AE1.exe
+C:\Users\kamgu_000\documents\visual studio 2017\Projects\AE1\AE1\obj\Debug\AE1.pdb
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\bin\Debug\AE1.exe.config
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\bin\Debug\AE1.exe
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\bin\Debug\AE1.pdb
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\obj\Debug\AE1.csprojResolveAssemblyReference.cache
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\obj\Debug\AE1.Form1.resources
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\obj\Debug\AE1.Properties.Resources.resources
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\obj\Debug\AE1.csproj.GenerateResource.Cache
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\obj\Debug\AE1.csproj.CoreCompileInputs.cache
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\obj\Debug\AE1.exe
+C:\Users\bombi.LIWE\Downloads\AE1\AE1\obj\Debug\AE1.pdb
+C:\Users\kamgu\source\repos\AE1\AE1\bin\Debug\AE1.exe.config
+C:\Users\kamgu\source\repos\AE1\AE1\bin\Debug\AE1.exe
+C:\Users\kamgu\source\repos\AE1\AE1\bin\Debug\AE1.pdb
+C:\Users\kamgu\source\repos\AE1\AE1\obj\Debug\AE1.csprojAssemblyReference.cache
+C:\Users\kamgu\source\repos\AE1\AE1\obj\Debug\AE1.Form1.resources
+C:\Users\kamgu\source\repos\AE1\AE1\obj\Debug\AE1.Properties.Resources.resources
+C:\Users\kamgu\source\repos\AE1\AE1\obj\Debug\AE1.csproj.GenerateResource.cache
+C:\Users\kamgu\source\repos\AE1\AE1\obj\Debug\AE1.csproj.CoreCompileInputs.cache
+C:\Users\kamgu\source\repos\AE1\AE1\obj\Debug\AE1.exe
+C:\Users\kamgu\source\repos\AE1\AE1\obj\Debug\AE1.pdb
